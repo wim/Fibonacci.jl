@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.13.1"
+manifest_format = "2.1"
+project_hash = "8fda008d2874fc2ffc53bdd6e86f06a386f4f0d5"
+
+[[deps.Fibonacci]]
+path = "."
+uuid = "464942e4-b6dd-4d5a-a5ff-2dcc1b1d151b"
+version = "0.1.1"

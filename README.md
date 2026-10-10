@@ -21,6 +21,10 @@ The algorithm as found on the main page of julialang, and that got killed for n=
 
 A simple method to compute all fibonacci numbers from 1 to n, by creating an array and iterating over its elements, adding the previous two values (n-2) and (n-1) to get the value at n. It returns the last value as answer.
 
+### fib_array_gen
+
+Similar to fib_array_sum, but without requiring an array.
+
 ### fib_fast_doubling
 
 Translation of Python version found at Project Nayuki (https://www.nayuki.io/page/fast-fibonacci-algorithms
